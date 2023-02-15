@@ -204,12 +204,16 @@
         \end{minipage}   
      \\
      &  & \\
-     & & \\
+     \hline
     \hline
     \end{tabular}
     \end{center}
     }
+    \vskip10pt
+    \small \textbf{Authorship note:} Editors have made significant contributions to the text and figures in this document, authors have contributed to supervision, discussions, writing and reviewing this document, and coordinators have contributed to editing and led the overall work towards the delivery of this document.
+
   }
+  
 %------------------------------------------------------------------------
 % compute the time in hours and minutes; make new variables \timehh and \timemm
 %%                            Added at 11:19:59 on 26 Sep 1988 by JOWETT
